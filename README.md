@@ -1,3 +1,4 @@
+# About the project (read file)
 
 This is a Java-based Object-Oriented Programming (OOP) assignment that simulates a system for managing tenants in a real estate company.
 
