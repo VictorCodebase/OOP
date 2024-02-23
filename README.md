@@ -1,4 +1,3 @@
-![image](https://github.com/VictorCodebase/OOP/assets/135356007/81fee169-910d-427d-b354-0c01a5015d28)# Real Estate Management System
 
 This is a Java-based Object-Oriented Programming (OOP) assignment that simulates a system for managing tenants in a real estate company.
 
