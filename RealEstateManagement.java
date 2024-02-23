@@ -3,6 +3,14 @@ import java.util.*;
 /*
  * We developed a system that manages tenants in a real estate company.
  * The system can add different types of tenants, remove tenants, find tenants, and display all tenants.
+ * 
+ *
+Name	                Registration number
+Mark Victor kithinji	sct212-0105/2022
+Samuel Gicheha	        sct212-0118/2022
+Derick Richards	        sct212-0192/2022
+Wekesa Daniel	        sct212-0183/2022
+Josiah Ndirangu	        sct212-0111/2022
  */
 
 // Interface for managing tenants
